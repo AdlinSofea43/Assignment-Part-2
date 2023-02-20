@@ -35,8 +35,13 @@ List all the features completed.
 
 1. Generate random objects inside the gameboard.
 2. Made the interface of the game.
+3. Made the quit command.
+4. Made About Us function.
+5. Compile everyone's final coding
+6. Record and Edit the Video demonstration
 
 ### Yasmin Irdina
 
 1. Made the Alien move.
 2. Assist in making the gameboard.
+3. Create the new object (Trap)
