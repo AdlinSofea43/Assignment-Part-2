@@ -2,7 +2,7 @@
 
 This game is like your typical plant vs zombies games, except its now alien vs zombies!! By spawning as the ONLY alien in the game, try your best to dodge incoming attacks from the zombie(s) and collect buffs along the way! Do take note that you can customize your own gameboard and the number of zombie(s) you want to go against! Have fun~
 
-The YouTube link to our [video demo ~](https://youtube.com).
+The YouTube link to our [video demo ~](https://youtu.be/dAhQZ3tbdTs).
 
 ## Compilation Instructions
 
